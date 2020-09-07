@@ -250,19 +250,6 @@ img {
 .about__subtitle {
   margin-bottom: var(--mb-2);
 }
-/*
-.about__img {
-  justify-self: center;
-  position: relative;
-  top: 40%;
-  left: -20%;
-  width: 1px;
-  height: 1px;
-  border-radius: 50%;
-  background-color: #fff;
-  box-shadow: 0 0 60px 30px #fff, 0 0 100px 60px #4070f4, 0 0 140px 90px #0ff;
-}
-*/
 /* skills */
 .skills__container {
   row-gap: 2rem;
